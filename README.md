@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Merhaba, ben Emin
 
-<!--
-**EminCemrek/EminCemrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Öğrenciyim ve yazılım geliştirmeyi öğreniyorum
+💻 Web geliştirme alanına ilgi duyuyorum
+🚀 Hedefim: Bilgisayar mühendisi olmak
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Kullandığım Teknolojiler
+
+* 🌐 HTML
+* 🎨 CSS
+* ⚡ JavaScript (öğreniyorum)
+* 🧰 Bootstrap
+
+---
+
+## 📌 Projelerim
+
+🔹 Yakında projelerimi buraya ekleyeceğim!
+
+---
+
+## 🎯 Hedeflerim
+
+* Daha fazla proje geliştirmek
+* JavaScript’te kendimi geliştirmek
+* React öğrenmek
+* Gerçek projeler yapmak
+
+---
+
+## 📫 Bana Ulaş
+
+* GitHub: https://github.com/EminCemrek
+
+---
+
+⭐ Profilime göz attığın için teşekkür ederim!
